@@ -1,7 +1,7 @@
 # MDA-2022
 Files for final project in MDA course 2021-22 
 
-There are 4 Python scripts/code for this project (in order):
+There are 4 Jupyter scripts/code for this project (in order):
 
 1. Data Wrangling
 
